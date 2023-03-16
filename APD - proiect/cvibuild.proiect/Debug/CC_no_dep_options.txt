@@ -1,0 +1,1 @@
+-force-include-file "proiect.c";"c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c" 

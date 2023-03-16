@@ -1,0 +1,45 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:34:5"
+
+[OnButtonLoad]
+Class="Function"
+Prototype="int OnButtonLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:49:17"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:138:17"
+
+[onApplyButton]
+Class="Function"
+Prototype="int onApplyButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:158:17"
+
+[onChangeSeconds]
+Class="Function"
+Prototype="int onChangeSeconds(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:248:17"
+
+[OnButtonDerivata]
+Class="Function"
+Prototype="int OnButtonDerivata(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:366:17"
+
+[OnSwitchPanel]
+Class="Function"
+Prototype="int OnSwitchPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:393:17"
+
+[OnFrequencyPanel]
+Class="Function"
+Prototype="int OnFrequencyPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:421:17"
+
+[OnClickTimer]
+Class="Function"
+Prototype="int OnClickTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roxana\Desktop\facultate\Anul III Semestrul I\APD - proiect\proiect.c:441:17"
+
